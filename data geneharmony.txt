@@ -1,0 +1,15 @@
+Sample ID: Unique identifier for the sample.
+SNP ID: Unique identifier for the single nucleotide polymorphism (SNP).
+Alleles: The alleles associated with the SNP (e.g., A/T, C/G).
+Genotype: The genotype at the specified SNP (e.g., AA, AG, GG).
+Gene Name: Name of the gene associated with the SNP.
+Nutrient Name: The name of the nutrient associated with the SNP.
+SNP-Nutrient Interaction: Description of the interaction between the SNP and the nutrient.
+Effect Size: Measure of the strength of the association between the SNP and nutrient metabolism.
+Age: Age of the user.
+Gender: Gender of the user (e.g., Male, Female, Other).
+Weight (kg): Weight of the user in kilograms.
+Height (cm): Height of the user in centimeters.
+Ethnicity: Ethnicity of the user.
+Health Conditions: Known health conditions that may affect nutrient needs.
+Dietary Preferences: User's dietary preferences (e.g., vegetarian, vegan, omnivore) to tailor recommendations.
